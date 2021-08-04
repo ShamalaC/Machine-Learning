@@ -1,4 +1,4 @@
-# Machine-Learning Algorithms
+Machine-Learning Algorithms
 
 > Clustering(K-Means)
 > Decision Tree Classifier
